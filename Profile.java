@@ -1,7 +1,7 @@
 import java.util.*;
 
 class Profile {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         String site = "https://www.facebook.com/";
         System.out.println("Это регестрация на сайт: " + site);
         Scanner in = new Scanner(System.in);

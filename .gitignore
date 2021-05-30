@@ -2,6 +2,8 @@
 *.class
 
 .idea/
+out/
+learning-java.iml
 
 # Log file
 *.log
